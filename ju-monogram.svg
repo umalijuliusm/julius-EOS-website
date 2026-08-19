@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-labelledby="t d">
+<title id="t">JU Virgo-inspired monogram</title>
+<desc id="d">A minimalist JU monogram inspired by the flowing form of the Virgo zodiac glyph.</desc>
+<g fill="none" stroke="#1F4D3A" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M45 35v78c0 22-11 34-28 34"/>
+  <path d="M45 103c8 14 18 20 31 20 16 0 25-10 25-29V35"/>
+  <path d="M101 35v63c0 29 16 49 42 49 24 0 38-16 38-43V35"/>
+</g>
+<path d="M102 35h25" stroke="#B08D3C" stroke-width="7" stroke-linecap="round"/>
+</svg>
